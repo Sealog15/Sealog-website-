@@ -1,0 +1,19 @@
+{
+  "name": "SeaLog Marine",
+  "short_name": "SeaLog",
+  "description": "SeaLog Marine — a simple, private way for seafarers to record sea service, vessels and port calls.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f9fc",
+  "theme_color": "#2D6BEA",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/splash.png",
+      "sizes": "1536x1536",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
