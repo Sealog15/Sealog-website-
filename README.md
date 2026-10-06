@@ -3,11 +3,10 @@
 This is a static website draft for the SeaLog Marine public website.
 
 Important:
-- It is completely separate from the SeaLog V15 app code.
-- V15 is not modified by these files.
-- The Google Play button currently uses `#`. Replace it with the final Play Store URL after the V15 AAB is published.
+- It is completely separate from the SeaLog app code.
+- The Google Play button currently uses `#`. Replace it with the final Play Store URL when SeaLog is publicly available.
 - The logo is loaded from `https://sealogmarine.com/splash.png`, which is already hosted in the SeaLog website repository.
-- The screenshots in `assets/` are the real V15 screenshots supplied for the website.
+- The screenshots in `assets/` are real SeaLog screenshots supplied for the website.
 
 Current sections:
 1. Hero / download
